@@ -22,7 +22,7 @@ Mobile
 ![](./Screenshot%202025-01-01%20at%2014-45-39%20Frontend%20Mentor%20Recipe%20page%20mobile.png)
 
 Desktop
-![](./Screenshot%202025-01-01%20at%2014-44-29%20Frontend%20Mentor%20Recipe%20page%20desktop.png)
+![](./Screenshot%202025-01-01%20at%2016-15-23%20Frontend%20Mentor%20Recipe%20page%20desktop.png)
 
 
 

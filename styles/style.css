@@ -40,7 +40,7 @@ svg {
 	max-width: 100%;
 }
 
-.container__wrapper {
+.wrapper {
 	background-color: var(--clr-white);
 	border-radius: 10px;
 	margin-left: auto;
@@ -249,7 +249,7 @@ svg {
 		border-radius: 10px;
 	}
 
-	.container__wrapper {
+	.wrapper {
 		border-radius: 25px;
 		margin-bottom: 1rem;
 	}
